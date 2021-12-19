@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SPNI Herni</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="daftarProvinsi">
+        <item>Daerah Istimewa Yogyakarta</item>
+        <item>Kalimantan Utara</item>
+        <item>DKI Jakarta</item>
+        <item>Provinsi Lain-nya</item>
+
+
+    </string-array>
+</resources>
